@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lab Test Management"
+    id="id-ce1f2076a77d49fda4c08d9ae2ee0bdc"
+    documentation="A LIMS helps standardize testing workflows while providing complete and accurate control of the testing process. A LIMS allows you to manage the test conducted on the batch of samples, enables easy entry of the results, tracking approval/validation of results, and generation of reports. Besides, it allows you to manage test analytes and allocate tests to specific LIMS users."/>

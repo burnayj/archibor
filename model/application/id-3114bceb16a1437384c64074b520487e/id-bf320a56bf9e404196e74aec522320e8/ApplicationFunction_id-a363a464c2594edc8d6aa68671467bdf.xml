@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lab Inventory Management"
+    id="id-a363a464c2594edc8d6aa68671467bdf"
+    documentation="The inventory management function of LIMS is an essential part of a laboratory ‘s day-to-day management. A LIMS manages stock supplies and reagents. A LIMS can also generate automatic reorder alerts in case of stock depletion. These alerts facilitate laboratory workflows and prevent any delays resulting from the unavailability of stocks. A LIMS can also help to keep detailed and up-to-date information about your equipment and notify when any equipment is due for upgrade or maintenance."/>

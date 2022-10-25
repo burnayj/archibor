@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sample Management"
+    id="id-18ff30af3fb94ccfa8702ddf3591bca8"
+    documentation="Sample management is one of the critical functions of a LIMS. A LIMS manages detailed and accurate records of each sample and stores it securely, thus eliminating loss of data as it moves between the departments. Additionally, when the sample moves from one unit of the laboratory to another, the Chain of Custody is updated to ensure proper tracking of the sample's location and custodian."/>
