@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Value Stream - InnoTech"
+    name="Value Stream Dependencies - InnoTech"
     id="id-19f31b219f2a4b4bbca3b45e8bea8ee9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
