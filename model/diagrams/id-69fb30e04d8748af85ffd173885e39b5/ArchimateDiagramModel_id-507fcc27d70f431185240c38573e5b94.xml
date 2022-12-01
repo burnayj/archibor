@@ -40,7 +40,7 @@
         x="744"
         y="300"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Constraint"
         href="Constraint_id-4566cc0bf332421a8318fff3c8100485.xml#id-4566cc0bf332421a8318fff3c8100485"/>
@@ -62,7 +62,7 @@
         x="732"
         y="192"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-579ca31159874c4bbf0dfef4d25887fa.xml#id-579ca31159874c4bbf0dfef4d25887fa"/>
