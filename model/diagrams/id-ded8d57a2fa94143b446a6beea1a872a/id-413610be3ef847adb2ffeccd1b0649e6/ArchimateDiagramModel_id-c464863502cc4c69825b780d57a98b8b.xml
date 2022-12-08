@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Flow - InnoTech (Bronze)"
+    name="Data Flow - InnoTech (Working version)"
     id="id-c464863502cc4c69825b780d57a98b8b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -888,18 +888,6 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-f276f8c8266b4af987fd1aca848162b4.xml#id-f276f8c8266b4af987fd1aca848162b4"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-c742c0bf26c445ceaee2b295fa3eb47a">
-    <bounds
-        x="864"
-        y="1092"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:DataObject"
-        href="DataObject_id-b04c0148a10d4bf7aacd7dcfa625244e.xml#id-b04c0148a10d4bf7aacd7dcfa625244e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
