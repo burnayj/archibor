@@ -1,0 +1,71 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aliquot"
+    id="id-5a9687dba45749adaaa1f1b773ed1260">
+  <properties
+      key="Aliquot Id"/>
+  <properties
+      key="Sample Id"/>
+  <properties
+      key="Operator Id"/>
+  <properties
+      key="Location Id"/>
+  <properties
+      key="Group Id"/>
+  <properties
+      key="Priority"/>
+  <properties
+      key="Condition"/>
+  <properties
+      key="Container Type Id"/>
+  <properties
+      key="Aliquot Template Id"/>
+  <properties
+      key="Worklfow Node Id"/>
+  <properties
+      key="Stock Template Id"/>
+  <properties
+      key="Name"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="Status"/>
+  <properties
+      key="Old Status"/>
+  <properties
+      key="Created On"/>
+  <properties
+      key="Completed On"/>
+  <properties
+      key="Authorised On"/>
+  <properties
+      key="Events"/>
+  <properties
+      key="Amount"/>
+  <properties
+      key="Unit Id"/>
+  <properties
+      key="Received By"/>
+  <properties
+      key="Received On"/>
+  <properties
+      key="Storage"/>
+  <properties
+      key="External Reference"/>
+  <properties
+      key="Created By"/>
+  <properties
+      key="Completed By"/>
+  <properties
+      key="Authorized By"/>
+  <properties
+      key="Supplier Id"/>
+  <properties
+      key="Chemical Id"/>
+  <properties
+      key="Stock Type Id"/>
+  <properties
+      key="Batch Number"/>
+  <properties
+      key="Purity"/>
+</archimate:DataObject>

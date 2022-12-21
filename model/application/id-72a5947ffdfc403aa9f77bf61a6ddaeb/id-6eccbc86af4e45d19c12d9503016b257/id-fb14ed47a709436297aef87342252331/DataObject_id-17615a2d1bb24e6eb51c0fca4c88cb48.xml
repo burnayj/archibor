@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Synthesis"
+    id="id-17615a2d1bb24e6eb51c0fca4c88cb48">
+  <properties
+      key="Recipe Id"/>
+  <properties
+      key="Parameter Set Id"/>
+  <properties
+      key="Master Parameter Set Template"/>
+  <properties
+      key="Master Recipe Template"/>
+  <properties
+      key="Workgroup"/>
+</archimate:DataObject>

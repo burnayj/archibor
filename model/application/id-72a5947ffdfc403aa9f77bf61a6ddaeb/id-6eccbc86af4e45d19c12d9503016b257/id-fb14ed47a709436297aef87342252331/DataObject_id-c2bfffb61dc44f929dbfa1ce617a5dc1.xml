@@ -1,0 +1,57 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activity"
+    id="id-c2bfffb61dc44f929dbfa1ce617a5dc1">
+  <properties
+      key="Generic Name"/>
+  <properties
+      key="Product Name"/>
+  <properties
+      key="Physical Type"/>
+  <properties
+      key="Activity Type"/>
+  <properties
+      key="Comment"/>
+  <properties
+      key="Instrument Id"/>
+  <properties
+      key="Current Stage Status"/>
+  <properties
+      key="Updated By (Operator Id)"/>
+  <properties
+      key="Update On"/>
+  <properties
+      key="Activity Description"/>
+  <properties
+      key="Activity SAP Number"/>
+  <properties
+      key="Assigned To (Operator Id)"/>
+  <properties
+      key="Stage"/>
+  <properties
+      key="Material To Test"/>
+  <properties
+      key="Input Material Type"/>
+  <properties
+      key="Site (Location Id)"/>
+  <properties
+      key="Actual Time"/>
+  <properties
+      key="Activity Cancelled On"/>
+  <properties
+      key="Activity Cancelled By (Operator Id)"/>
+  <properties
+      key="Calculated Priority"/>
+  <properties
+      key="Entered Prio Id"/>
+  <properties
+      key="Activity Completed On"/>
+  <properties
+      key="Project Id"/>
+  <properties
+      key="Expected Date"/>
+  <properties
+      key="Ursus Id"/>
+  <properties
+      key="Base Batch"/>
+</archimate:DataObject>

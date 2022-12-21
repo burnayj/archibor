@@ -1,0 +1,19 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Polymerisation"
+    id="id-808f7c5b7f04463daabfd85e35575cb5">
+  <properties
+      key="Parameter Set Id"/>
+  <properties
+      key="Catalyst Added (Aliquot Id)"/>
+  <properties
+      key="Catalyst Used (Aliquot Id)"/>
+  <properties
+      key="Master Parameter Set Template"/>
+  <properties
+      key="Master Recipe Template"/>
+  <properties
+      key="Repeat Count"/>
+  <properties
+      key="Workgroup"/>
+</archimate:DataObject>
