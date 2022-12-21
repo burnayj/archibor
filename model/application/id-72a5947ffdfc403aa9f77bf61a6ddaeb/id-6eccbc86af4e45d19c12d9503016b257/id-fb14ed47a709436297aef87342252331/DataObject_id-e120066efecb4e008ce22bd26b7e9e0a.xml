@@ -1,0 +1,51 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compound"
+    id="id-e120066efecb4e008ce22bd26b7e9e0a">
+  <properties
+      key="Parameter Set Id"/>
+  <properties
+      key="Recipe Id"/>
+  <properties
+      key="Test Workflow Id"/>
+  <properties
+      key="Condition Set Id"/>
+  <properties
+      key="Is Customer Sample"/>
+  <properties
+      key="Method"/>
+  <properties
+      key="SAP Packaging Code"/>
+  <properties
+      key="Master Parameter Set Template"/>
+  <properties
+      key="Master Recipe Template"/>
+  <properties
+      key="WISCO Memo"/>
+  <properties
+      key="Actual Instrument Time"/>
+  <properties
+      key="WISCO Status"/>
+  <properties
+      key="Screw Name"/>
+  <properties
+      key="First Scheduled Week (Week Id)"/>
+  <properties
+      key="Lab Accepted Week (Week Id)"/>
+  <properties
+      key="First Lab Accepted Week (Week Id)"/>
+  <properties
+      key="Release Week (Week Id)"/>
+  <properties
+      key="Week Id"/>
+  <properties
+      key="Compound Ranking"/>
+  <properties
+      key="Item Amount"/>
+  <properties
+      key="Item Unit (Unit Id)"/>
+  <properties
+      key="Accept"/>
+  <properties
+      key="Cleaning"/>
+</archimate:DataObject>

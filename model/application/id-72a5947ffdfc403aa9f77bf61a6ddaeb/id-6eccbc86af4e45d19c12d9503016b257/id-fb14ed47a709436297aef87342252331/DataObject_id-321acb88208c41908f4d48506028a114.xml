@@ -1,0 +1,37 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Testing"
+    id="id-321acb88208c41908f4d48506028a114">
+  <properties
+      key="Recipe Id"/>
+  <properties
+      key="Test Workflow Id"/>
+  <properties
+      key="Condition Set Id"/>
+  <properties
+      key="Master Recipe Template"/>
+  <properties
+      key="Actual Instrument Time"/>
+  <properties
+      key="First Scheduled Week (Week Id)"/>
+  <properties
+      key="Lab Accepted Week (Week Id)"/>
+  <properties
+      key="Release Week (Week Id)"/>
+  <properties
+      key="First Lab Accepted Week (Week Id)"/>
+  <properties
+      key="Week Id"/>
+  <properties
+      key="Default Time"/>
+  <properties
+      key="Item Amount"/>
+  <properties
+      key="Item Unit (Unit Id)"/>
+  <properties
+      key="Accept"/>
+  <properties
+      key="Is Fast Track"/>
+  <properties
+      key="Has Technical Approval"/>
+</archimate:DataObject>

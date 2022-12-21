@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test"
+    id="id-a14874f3f0b24e04b561432e298a3998">
+  <properties
+      key="Test Id"/>
+  <properties
+      key="Aliquot Id"/>
+  <properties
+      key="Replicate Number"/>
+  <properties
+      key="Group Id"/>
+  <properties
+      key="Workflow Node Id"/>
+  <properties
+      key="Test Template Id"/>
+  <properties
+      key="Name"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="Status"/>
+  <properties
+      key="Old Status"/>
+  <properties
+      key="Created On"/>
+  <properties
+      key="Completed On"/>
+  <properties
+      key="Authorised On"/>
+  <properties
+      key="Events"/>
+  <properties
+      key="Has Notes"/>
+  <properties
+      key="Has Audits"/>
+  <properties
+      key="Created By"/>
+  <properties
+      key="Completed By"/>
+  <properties
+      key="Authorised By"/>
+  <properties
+      key="Condition Set Id"/>
+  <properties
+      key="Rework Reason"/>
+  <properties
+      key="Failure Time"/>
+</archimate:DataObject>

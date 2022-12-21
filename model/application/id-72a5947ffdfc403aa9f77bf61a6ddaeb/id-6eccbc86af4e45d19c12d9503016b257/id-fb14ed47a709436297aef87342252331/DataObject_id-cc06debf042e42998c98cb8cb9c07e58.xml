@@ -1,0 +1,73 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sample"
+    id="id-cc06debf042e42998c98cb8cb9c07e58">
+  <properties
+      key="Name"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="Status"/>
+  <properties
+      key="Old Status"/>
+  <properties
+      key="Created On"/>
+  <properties
+      key="Completed On"/>
+  <properties
+      key="Authorised On"/>
+  <properties
+      key="Events"/>
+  <properties
+      key="Received By"/>
+  <properties
+      key="Received On"/>
+  <properties
+      key="Has Notes"/>
+  <properties
+      key="Has Audits"/>
+  <properties
+      key="Study Id"/>
+  <properties
+      key="Created By"/>
+  <properties
+      key="Completed By"/>
+  <properties
+      key="Authorised By"/>
+  <properties
+      key="Date Results Required"/>
+  <properties
+      key="Sample Template Id"/>
+  <properties
+      key="Workflow Node Id"/>
+  <properties
+      key="Process Flow Type"/>
+  <properties
+      key="Request Status"/>
+  <properties
+      key="Catalyst"/>
+  <properties
+      key="Processing Site"/>
+  <properties
+      key="Recipe Link (Recipe Id)"/>
+  <properties
+      key="Process Parameter"/>
+  <properties
+      key="Workgroup"/>
+  <properties
+      key="Varying Factor"/>
+  <properties
+      key="Copy Catalyst"/>
+  <properties
+      key="Role Id"/>
+  <properties
+      key="Branch Cancelled By (Operator Id)"/>
+  <properties
+      key="Branch Cancelled On"/>
+  <properties
+      key="Fast Track"/>
+  <properties
+      key="Sample Id"/>
+  <properties
+      key="Group Id"/>
+</archimate:DataObject>
