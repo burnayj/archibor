@@ -1,0 +1,73 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Result"
+    id="id-610cd4b14c9a4d02a5acbf74af9cb85a">
+  <properties
+      key="Result Type"/>
+  <properties
+      key="Formatted Result"/>
+  <properties
+      key="Result Id"/>
+  <properties
+      key="Instrument Id"/>
+  <properties
+      key="Instrument File Id"/>
+  <properties
+      key="Original Result"/>
+  <properties
+      key="Raw Numeric Result"/>
+  <properties
+      key="Calculated Numeric Result"/>
+  <properties
+      key="Result Prefix"/>
+  <properties
+      key="Dilution Factor"/>
+  <properties
+      key="Test Id"/>
+  <properties
+      key="Ad hoc"/>
+  <properties
+      key="Formated Unit"/>
+  <properties
+      key="Original Unit"/>
+  <properties
+      key="Operator Id"/>
+  <properties
+      key="Modified"/>
+  <properties
+      key="Workflow Node Id"/>
+  <properties
+      key="Result Template Id"/>
+  <properties
+      key="Name"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="Status"/>
+  <properties
+      key="Old Status"/>
+  <properties
+      key="Created On"/>
+  <properties
+      key="Completed On"/>
+  <properties
+      key="Authorised On"/>
+  <properties
+      key="Events"/>
+  <properties
+      key="Has Notes"/>
+  <properties
+      key="Has Audits"/>
+  <properties
+      key="Created By"/>
+  <properties
+      key="Completed By"/>
+  <properties
+      key="Authorised By"/>
+  <properties
+      key="Minimum"/>
+  <properties
+      key="Maximum"/>
+  <properties
+      key="Rounding Method"/>
+</archimate:DataObject>

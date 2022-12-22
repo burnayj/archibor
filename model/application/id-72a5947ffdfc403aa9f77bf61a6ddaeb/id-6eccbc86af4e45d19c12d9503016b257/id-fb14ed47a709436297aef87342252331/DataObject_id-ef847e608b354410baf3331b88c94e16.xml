@@ -1,0 +1,119 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stock"
+    id="id-ef847e608b354410baf3331b88c94e16">
+  <properties
+      key="Generic Name"/>
+  <properties
+      key="Product Name"/>
+  <properties
+      key="Producer"/>
+  <properties
+      key="Reserved for Recipe (Recipe Id)"/>
+  <properties
+      key="Physical Type"/>
+  <properties
+      key="Comment"/>
+  <properties
+      key="Density"/>
+  <properties
+      key="Reserved By (Operator Id)"/>
+  <properties
+      key="Supplier Product Code"/>
+  <properties
+      key="Dispose By Date"/>
+  <properties
+      key="Colour"/>
+  <properties
+      key="CoA"/>
+  <properties
+      key="Concentration [weight percent]"/>
+  <properties
+      key="Concentration [mol]"/>
+  <properties
+      key="Catalyst Active Metal Concentration"/>
+  <properties
+      key="Catalyst Prepolymerisation Degradation"/>
+  <properties
+      key="Original Amount"/>
+  <properties
+      key="Part Diameter"/>
+  <properties
+      key="Part Length"/>
+  <properties
+      key="Film Thickness"/>
+  <properties
+      key="Part Thickness"/>
+  <properties
+      key="Part Type"/>
+  <properties
+      key="Film Type"/>
+  <properties
+      key="Patent Material"/>
+  <properties
+      key="Updated By (Operator Id)"/>
+  <properties
+      key="Updated On"/>
+  <properties
+      key="Owner Group (Group Id)"/>
+  <properties
+      key="Delivery Date"/>
+  <properties
+      key="Order Date"/>
+  <properties
+      key="Delivered Amount"/>
+  <properties
+      key="Responsible Person"/>
+  <properties
+      key="Material Group"/>
+  <properties
+      key="Expected Delivery Date"/>
+  <properties
+      key="Ordered By Warehouse"/>
+  <properties
+      key="Site (Location Id)"/>
+  <properties
+      key="Pipe Lot No"/>
+  <properties
+      key="Moulding Application"/>
+  <properties
+      key="Mobility Application"/>
+  <properties
+      key="Used Product"/>
+  <properties
+      key="Used Lot No"/>
+  <properties
+      key="Project Id"/>
+  <properties
+      key="Expected Amount"/>
+  <properties
+      key="Contact Person (Operator Id)"/>
+  <properties
+      key="Active Metal"/>
+  <properties
+      key="Active Metal Molecular Weight"/>
+  <properties
+      key="Catalyst Concentration"/>
+  <properties
+      key="Output Transferred"/>
+  <properties
+      key="Required Date"/>
+  <properties
+      key="Cable Conductor"/>
+  <properties
+      key="Cable Construction"/>
+  <properties
+      key="Cable Insulation Batch"/>
+  <properties
+      key="Cable Insulation Grade"/>
+  <properties
+      key="Cable Inner Semicon Batch"/>
+  <properties
+      key="Cable Inner Semicon Grade"/>
+  <properties
+      key="Cable Outer Semicon Batch"/>
+  <properties
+      key="Cable Outer Semicon Grade"/>
+  <properties
+      key="Reserved For Dispatch"/>
+</archimate:DataObject>

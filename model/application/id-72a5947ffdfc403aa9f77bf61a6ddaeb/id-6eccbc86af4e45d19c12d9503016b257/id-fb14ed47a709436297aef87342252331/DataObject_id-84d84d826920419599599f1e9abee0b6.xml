@@ -1,0 +1,83 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Study"
+    id="id-84d84d826920419599599f1e9abee0b6">
+  <properties
+      key="Study Id"/>
+  <properties
+      key="Group Id"/>
+  <properties
+      key="Workflow Node Id"/>
+  <properties
+      key="Study Template Id"/>
+  <properties
+      key="Name"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="Status"/>
+  <properties
+      key="Old Status"/>
+  <properties
+      key="Created On"/>
+  <properties
+      key="Completed On"/>
+  <properties
+      key="Authorised On"/>
+  <properties
+      key="Events"/>
+  <properties
+      key="Needs Review"/>
+  <properties
+      key="Has Notes"/>
+  <properties
+      key="Has Audits"/>
+  <properties
+      key="Created By"/>
+  <properties
+      key="Completed By"/>
+  <properties
+      key="Authorised By"/>
+  <properties
+      key="Requestor (Operator Id)"/>
+  <properties
+      key="Customer (Client Id)"/>
+  <properties
+      key="Priority"/>
+  <properties
+      key="Date Results Required"/>
+  <properties
+      key="Request Type"/>
+  <properties
+      key="Purpose And Background"/>
+  <properties
+      key="Project (Project Id)"/>
+  <properties
+      key="Request Status"/>
+  <properties
+      key="Title"/>
+  <properties
+      key="Claim Number"/>
+  <properties
+      key="Role Id"/>
+  <properties
+      key="Request Cancelled By"/>
+  <properties
+      key="Request Cancelled On"/>
+  <properties
+      key="Request Approved By"/>
+  <properties
+      key="Request Approved On"/>
+  <properties
+      key="Dispose After Test"/>
+  <properties
+      key="Review Needed"/>
+  <properties
+      key="Ursus Id"/>
+  <properties
+      key="Notification Start State"/>
+  <properties
+      key="Notification End State"/>
+  <properties
+      key="BorSim Data Upload"/>
+</archimate:DataObject>

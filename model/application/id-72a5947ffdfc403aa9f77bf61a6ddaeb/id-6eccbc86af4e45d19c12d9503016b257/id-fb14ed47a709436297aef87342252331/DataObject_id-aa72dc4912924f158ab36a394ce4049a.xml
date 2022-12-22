@@ -1,0 +1,43 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Output"
+    id="id-aa72dc4912924f158ab36a394ce4049a">
+  <properties
+      key="Generic Name"/>
+  <properties
+      key="Product Name"/>
+  <properties
+      key="Physical Type"/>
+  <properties
+      key="Comment"/>
+  <properties
+      key="Colour"/>
+  <properties
+      key="Concentration [weight percent]"/>
+  <properties
+      key="Concentration [mol]"/>
+  <properties
+      key="Catalyst Active Metal Concentration"/>
+  <properties
+      key="Catalyst Prepolymerisation Degradation"/>
+  <properties
+      key="Original Amount"/>
+  <properties
+      key="Updated By (Operator Id)"/>
+  <properties
+      key="Updated On"/>
+  <properties
+      key="Owner Group (Group Id)"/>
+  <properties
+      key="Delivery Date"/>
+  <properties
+      key="Site (Location Id)"/>
+  <properties
+      key="Project Id"/>
+  <properties
+      key="Batch Increment"/>
+  <properties
+      key="Set To Transfer"/>
+  <properties
+      key="Output Transferred"/>
+</archimate:DataObject>

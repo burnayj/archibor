@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transfer To Stock"
+    id="id-e21cc6cdf22d4e41aa77c8e4b2ed092b">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-aa72dc4912924f158ab36a394ce4049a.xml#id-aa72dc4912924f158ab36a394ce4049a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ef847e608b354410baf3331b88c94e16.xml#id-ef847e608b354410baf3331b88c94e16"/>
+</archimate:AssociationRelationship>

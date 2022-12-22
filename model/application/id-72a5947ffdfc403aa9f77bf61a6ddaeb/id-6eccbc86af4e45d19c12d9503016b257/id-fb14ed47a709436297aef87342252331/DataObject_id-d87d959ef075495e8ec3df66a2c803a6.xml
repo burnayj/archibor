@@ -1,0 +1,51 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conversion"
+    id="id-d87d959ef075495e8ec3df66a2c803a6">
+  <properties
+      key="Recipe Id"/>
+  <properties
+      key="Test Workflow Id"/>
+  <properties
+      key="Master Recipe Template"/>
+  <properties
+      key="Condition Set Id"/>
+  <properties
+      key="Actual Instrument Time"/>
+  <properties
+      key="First Scheduled Week (Week Id)"/>
+  <properties
+      key="Lab Accepted Week (Week Id)"/>
+  <properties
+      key="First Lab Accepted Week (Week Id)"/>
+  <properties
+      key="Release Week (Week Id)"/>
+  <properties
+      key="Week Id"/>
+  <properties
+      key="Planned Monday"/>
+  <properties
+      key="Planned Tuesday"/>
+  <properties
+      key="Planned Wednesday"/>
+  <properties
+      key="Planned Thursday"/>
+  <properties
+      key="Planned Friday"/>
+  <properties
+      key="Default Time"/>
+  <properties
+      key="Item Amount"/>
+  <properties
+      key="Item Unit (Unit Id)"/>
+  <properties
+      key="Accept"/>
+  <properties
+      key="Cleaning"/>
+  <properties
+      key="Is Fast Track"/>
+  <properties
+      key="Calculated Amount"/>
+  <properties
+      key="Has Technical Approval"/>
+</archimate:DataObject>
