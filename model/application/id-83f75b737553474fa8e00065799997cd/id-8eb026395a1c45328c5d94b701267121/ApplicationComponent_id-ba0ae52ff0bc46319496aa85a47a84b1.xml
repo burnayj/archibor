@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ChemWatch"
-    id="id-ba0ae52ff0bc46319496aa85a47a84b1"/>
+    id="id-ba0ae52ff0bc46319496aa85a47a84b1"
+    documentation="Maintenance of chem datasheets (pdf mainly, but not limited to pdf)"/>
