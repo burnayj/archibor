@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Information Model - Nautilus"
+    name="Data Realization - Nautilus"
     id="id-095ff5869b9b4a73bdd0e63e02b89c8c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
