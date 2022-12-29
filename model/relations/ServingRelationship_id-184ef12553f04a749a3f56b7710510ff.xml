@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensors Data (JSON)"
+    id="id-184ef12553f04a749a3f56b7710510ff">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e1983c554799401884f23b2755723615.xml#id-e1983c554799401884f23b2755723615"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-f2d35fb6b09a484bb92a82f06845654b.xml#id-f2d35fb6b09a484bb92a82f06845654b"/>
+</archimate:ServingRelationship>
