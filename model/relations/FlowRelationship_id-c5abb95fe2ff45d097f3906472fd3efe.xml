@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregated Data"
+    id="id-c5abb95fe2ff45d097f3906472fd3efe">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-acf52835055c42a887f9a26cf4f6c6af.xml#id-acf52835055c42a887f9a26cf4f6c6af"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-c05f9c4a13054847baa1d6ab3269e687.xml#id-c05f9c4a13054847baa1d6ab3269e687"/>
+</archimate:FlowRelationship>
