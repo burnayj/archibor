@@ -1038,7 +1038,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4b47863735494690a87688a5d125a6f8"
-      targetConnections="id-6d5f59b8ac2142b28daf7287e51a69c0 id-bbbfa10370814892a4fdbc6790eb0d77 id-4f4a3e32668c45a6b0570ef243076a38 id-2c4f298097874fecb8863ccbfbad10ce id-6d1a4d7d80614c1e9a7f43943b74ef13 id-1dea70c02bee4e76815a24786d68c75c">
+      targetConnections="id-6d5f59b8ac2142b28daf7287e51a69c0 id-bbbfa10370814892a4fdbc6790eb0d77 id-4f4a3e32668c45a6b0570ef243076a38 id-2c4f298097874fecb8863ccbfbad10ce id-1dea70c02bee4e76815a24786d68c75c">
     <bounds
         x="209"
         y="599"
@@ -1100,15 +1100,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fb6d3a99157147ab8d986080654406a4"
       targetConnections="id-4622b2bed69b47db94bf07829111df0a id-5776df6ed999492784468bfd86f8b7ba">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-6d1a4d7d80614c1e9a7f43943b74ef13"
-        source="id-fb6d3a99157147ab8d986080654406a4"
-        target="id-4b47863735494690a87688a5d125a6f8">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-a6f42d43ffb045829a4ddede927d8ce2.xml#id-a6f42d43ffb045829a4ddede927d8ce2"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-72ff7dc20f594d14be93a976c79db186"
