@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Scale Up"
-    id="id-3bcd2f7e5be64a20841c51faf27691d6"/>
+    id="id-3bcd2f7e5be64a20841c51faf27691d6"
+    documentation="Activity to translate a Process and/or a Recipe from OPS_Innotech to a specific machine of OPS_Polyolefin or OPS_Base Chemicals for Product Production&#xD;&#xA;"/>
