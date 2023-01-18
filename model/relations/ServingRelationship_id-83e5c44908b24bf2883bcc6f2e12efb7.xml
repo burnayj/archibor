@@ -1,12 +1,11 @@
-<archimate:InfluenceRelationship
+<archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Domain driven design"
-    id="id-83afbf1154ca4923b90fae17df75b9ef">
+    id="id-83e5c44908b24bf2883bcc6f2e12efb7">
   <source
       xsi:type="archimate:Capability"
       href="Capability_id-99187bbadfd646d7a723700f47ac0ea5.xml#id-99187bbadfd646d7a723700f47ac0ea5"/>
   <target
-      xsi:type="archimate:Goal"
-      href="Goal_id-c0ad9906566642de91445105d8c2b4e9.xml#id-c0ad9906566642de91445105d8c2b4e9"/>
-</archimate:InfluenceRelationship>
+      xsi:type="archimate:Capability"
+      href="Capability_id-d3873f6b7fb948deb2a90e751837fe35.xml#id-d3873f6b7fb948deb2a90e751837fe35"/>
+</archimate:ServingRelationship>

@@ -1,6 +1,7 @@
 <archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data policies &amp; statndards, data collaboration"
     id="id-196823643c5b4865993df8105a2e2550">
   <source
       xsi:type="archimate:Capability"

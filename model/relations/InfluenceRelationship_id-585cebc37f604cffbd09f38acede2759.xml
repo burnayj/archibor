@@ -1,6 +1,7 @@
 <archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domain driven design"
     id="id-585cebc37f604cffbd09f38acede2759">
   <source
       xsi:type="archimate:Capability"

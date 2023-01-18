@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Flow - InnoTech - Batch"
+    name="Data Flow - BorSim"
     id="id-3971c7042a3c4816b2f27f7375e54283">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

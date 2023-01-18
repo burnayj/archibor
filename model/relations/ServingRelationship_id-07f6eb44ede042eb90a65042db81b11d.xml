@@ -1,12 +1,11 @@
-<archimate:InfluenceRelationship
+<archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Trusted data"
-    id="id-9f2363d24c6443f49283b282bc2a841b">
+    id="id-07f6eb44ede042eb90a65042db81b11d">
   <source
       xsi:type="archimate:Capability"
       href="Capability_id-fb105c9456954b38be380a8523c59ae8.xml#id-fb105c9456954b38be380a8523c59ae8"/>
   <target
-      xsi:type="archimate:Goal"
-      href="Goal_id-211a197e6a394af6804b31c644b098f1.xml#id-211a197e6a394af6804b31c644b098f1"/>
-</archimate:InfluenceRelationship>
+      xsi:type="archimate:Capability"
+      href="Capability_id-2d562ff9b08443f7961be6287a7974a5.xml#id-2d562ff9b08443f7961be6287a7974a5"/>
+</archimate:ServingRelationship>

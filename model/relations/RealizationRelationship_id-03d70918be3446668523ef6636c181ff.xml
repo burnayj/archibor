@@ -1,12 +1,12 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="system API's"
-    id="id-d26176208575448ca24414bf30956cab">
+    name="Understand and find data"
+    id="id-03d70918be3446668523ef6636c181ff">
   <source
       xsi:type="archimate:Capability"
-      href="Capability_id-9a6041aca64a42da8c16ad7cd64b737a.xml#id-9a6041aca64a42da8c16ad7cd64b737a"/>
+      href="Capability_id-d3873f6b7fb948deb2a90e751837fe35.xml#id-d3873f6b7fb948deb2a90e751837fe35"/>
   <target
       xsi:type="archimate:Outcome"
-      href="Outcome_id-edcf74243e8e4eb3b97fa9d1737b0465.xml#id-edcf74243e8e4eb3b97fa9d1737b0465"/>
+      href="Outcome_id-ee0db2c928694c7fb2c8f4c9bc8e9399.xml#id-ee0db2c928694c7fb2c8f4c9bc8e9399"/>
 </archimate:RealizationRelationship>
