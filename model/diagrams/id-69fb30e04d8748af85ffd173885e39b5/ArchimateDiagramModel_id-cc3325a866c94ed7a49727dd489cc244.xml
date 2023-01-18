@@ -111,6 +111,15 @@
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_id-585cebc37f604cffbd09f38acede2759.xml#id-585cebc37f604cffbd09f38acede2759"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-37666057f3474b7fb3c4526d3c6eac84"
+        source="id-9b062dee43dd42b085cb20db7daebcc8"
+        target="id-70e1b2abf7d041308e0c3b2b569c25db">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-b5d47f0b6a184ef6828f16864e677cce.xml#id-b5d47f0b6a184ef6828f16864e677cce"/>
+    </sourceConnections>
     <bounds
         x="312"
         y="396"
@@ -208,7 +217,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-70e1b2abf7d041308e0c3b2b569c25db">
+      id="id-70e1b2abf7d041308e0c3b2b569c25db"
+      targetConnections="id-37666057f3474b7fb3c4526d3c6eac84">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-263d3f5a24084919bb70cc1c79c2aab5"
@@ -249,18 +259,6 @@
         href="Capability_id-2d562ff9b08443f7961be6287a7974a5.xml#id-2d562ff9b08443f7961be6287a7974a5"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-67808973b16044eb985680d3fd0afa4f">
-    <bounds
-        x="444"
-        y="396"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_id-00b516cbf9224438ae5077d37c552a2f.xml#id-00b516cbf9224438ae5077d37c552a2f"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="id-ebf4d773668044958e11ffc057e6d613"
       textAlignment="1"
@@ -274,7 +272,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d2f67a1303594985bd6fd72a16a7c074"
-      targetConnections="id-f6ec9104f15941eabf8e03f83e7d4401">
+      targetConnections="id-f6ec9104f15941eabf8e03f83e7d4401 id-d8df112d94554f509cc005169718b4f4">
     <bounds
         x="456"
         y="192"
@@ -283,5 +281,37 @@
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-c0ad9906566642de91445105d8c2b4e9.xml#id-c0ad9906566642de91445105d8c2b4e9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-86618e543346417da0e7dc2cbade99a7">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d8df112d94554f509cc005169718b4f4"
+        source="id-86618e543346417da0e7dc2cbade99a7"
+        target="id-d2f67a1303594985bd6fd72a16a7c074">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-83afbf1154ca4923b90fae17df75b9ef.xml#id-83afbf1154ca4923b90fae17df75b9ef"/>
+    </sourceConnections>
+    <bounds
+        x="444"
+        y="396"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-99187bbadfd646d7a723700f47ac0ea5.xml#id-99187bbadfd646d7a723700f47ac0ea5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5fdbee601cfe41d5866423bec04de568"
+      textAlignment="1"
+      content="Suggestion: write document explaining in detail this contribution... A kind of mission statement?">
+    <bounds
+        x="780"
+        y="480"
+        width="253"
+        height="67"/>
   </children>
 </archimate:ArchimateDiagramModel>
