@@ -264,12 +264,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-ebf4d773668044958e11ffc057e6d613"
       textAlignment="1"
-      content="Data Management is actively supporting Innotech transformation">
+      content="Data Management is a transversal supporting service, actively supporting business and/or technology transformation">
     <bounds
-        x="924"
-        y="72"
-        width="185"
-        height="80"/>
+        x="888"
+        y="390"
+        width="253"
+        height="67"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
