@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OnSpot"
+    id="id-c1b6c1cbe5ef41cf858712db76688c38"
+    documentation="OnSpot has a fundamental, nonlinear physical process model that uses measurement information from the plant to estimate key process variables and predict their future behavior. The predictions are used mainly for closed-loop multivariable control, but they will also assist the operators during transitions.&#xD;&#xA;&#xD;&#xA;The OnSpot control application is implemented in a separate computer with an interface to the DCS control system. Operatorenters the desired set points and puts the controllers into computer mode in order to use APC. &#xD;&#xA;&#xD;&#xA;APC will then calculate the optimal set points for the variables in use.An estimator is used to update parameters in the APC model. This ensures that the model will always match the real plant asclosely as possible."/>
