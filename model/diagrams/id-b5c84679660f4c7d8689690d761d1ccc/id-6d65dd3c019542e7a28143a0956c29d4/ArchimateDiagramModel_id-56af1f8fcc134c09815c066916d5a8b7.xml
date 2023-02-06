@@ -8,7 +8,7 @@
       id="id-c42f165850224c999625fc2cb98ec0d5"
       targetConnections="id-e92f0cccf89d42ad85c2a9900b59beb8">
     <bounds
-        x="371"
+        x="299"
         y="504"
         width="120"
         height="55"/>
@@ -21,7 +21,7 @@
       id="id-67f6d0adafb04f3d975f76613a136bf0"
       targetConnections="id-0b6ab7f5b324402b9e5e83cb7b8176ec">
     <bounds
-        x="371"
+        x="299"
         y="777"
         width="120"
         height="55"/>
@@ -75,7 +75,7 @@
           href="ServingRelationship_id-44af133eb68e433bab15d552a4e2f124.xml#id-44af133eb68e433bab15d552a4e2f124"/>
     </sourceConnections>
     <bounds
-        x="371"
+        x="299"
         y="618"
         width="120"
         height="55"/>
@@ -89,7 +89,7 @@
       textAlignment="1"
       content="Viscosity model bought from a university, available for everyone within Borealis&#xD;&#xA;(runs in DOS)">
     <bounds
-        x="468"
+        x="396"
         y="648"
         width="181"
         height="73"/>
@@ -99,7 +99,7 @@
       id="id-9334880791104b079ed3870298e52f75"
       targetConnections="id-8f77d9c8ca884904b40711b5fc7f4975">
     <bounds
-        x="252"
+        x="180"
         y="702"
         width="120"
         height="55"/>
@@ -126,7 +126,7 @@
       textAlignment="1"
       content="OnSpot has a fundamental, nonlinear physical process model that uses measurement information from the plant to estimate key process variables and predict their future behavior. &#xD;&#xA;The predictions are used mainly for closed-loop multivariable control, but they will also assist the operators during transitions.">
     <bounds
-        x="218"
+        x="146"
         y="771"
         width="145"
         height="145"/>
@@ -353,7 +353,7 @@
           href="AssociationRelationship_id-77a22a27a16b464a9c31d5dfb5c4093e.xml#id-77a22a27a16b464a9c31d5dfb5c4093e"/>
     </sourceConnections>
     <bounds
-        x="206"
+        x="134"
         y="618"
         width="120"
         height="55"/>
