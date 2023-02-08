@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Flow - TagTracker (Current)"
+    name="Data Flow - MeterMonitor (Current)"
     id="id-3b920c6776f043119835a9fb3814b0fb">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
