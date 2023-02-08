@@ -32,7 +32,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-55daf9373e7247188a4fe8be86cf93bc"
-      targetConnections="id-e8b0f4c2d41e406db3bf1fc49b3276ed">
+      targetConnections="id-e8b0f4c2d41e406db3bf1fc49b3276ed id-7ea125270b1a47c390755879cd200cd9">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e92f0cccf89d42ad85c2a9900b59beb8"
@@ -89,8 +89,8 @@
       textAlignment="1"
       content="Viscosity model bought from a university, available for everyone within Borealis&#xD;&#xA;(runs in DOS)">
     <bounds
-        x="396"
-        y="648"
+        x="420"
+        y="630"
         width="181"
         height="73"/>
   </children>
@@ -718,5 +718,26 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-2b0da7bdb7764a1a9bc2561b0fab6200.xml#id-2b0da7bdb7764a1a9bc2561b0fab6200"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1822fba5158a47a6b257cb0b2671899a">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7ea125270b1a47c390755879cd200cd9"
+        source="id-1822fba5158a47a6b257cb0b2671899a"
+        target="id-55daf9373e7247188a4fe8be86cf93bc">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-f753f647093d49c888031f7b36a203a8.xml#id-f753f647093d49c888031f7b36a203a8"/>
+    </sourceConnections>
+    <bounds
+        x="433"
+        y="831"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-0771c99f59d74068af6d0d0e8c1c8a43.xml#id-0771c99f59d74068af6d0d0e8c1c8a43"/>
   </children>
 </archimate:ArchimateDiagramModel>
