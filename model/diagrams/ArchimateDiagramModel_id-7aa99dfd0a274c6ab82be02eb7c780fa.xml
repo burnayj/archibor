@@ -9,7 +9,7 @@
       targetConnections="id-032bd5056bc1445bafe2dee5135c0152">
     <bounds
         x="216"
-        y="194"
+        y="216"
         width="120"
         height="55"/>
     <archimateElement
@@ -33,7 +33,7 @@
     </sourceConnections>
     <bounds
         x="216"
-        y="324"
+        y="346"
         width="120"
         height="55"/>
     <archimateElement
@@ -47,7 +47,7 @@
       content="Serving relationship ">
     <bounds
         x="276"
-        y="276"
+        y="298"
         width="134"
         height="28"/>
   </children>
@@ -70,7 +70,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="194"
+        y="216"
         width="120"
         height="55"/>
     <archimateElement
@@ -83,7 +83,7 @@
       targetConnections="id-51bb055fb27548af93293f565d56ebdc">
     <bounds
         x="24"
-        y="324"
+        y="346"
         width="120"
         height="55"/>
     <archimateElement
@@ -97,7 +97,7 @@
       content="Assignment relationship ">
     <bounds
         x="84"
-        y="276"
+        y="298"
         width="157"
         height="28"/>
   </children>
@@ -115,7 +115,7 @@
     </sourceConnections>
     <bounds
         x="396"
-        y="324"
+        y="346"
         width="120"
         height="55"/>
     <archimateElement
@@ -128,7 +128,7 @@
       targetConnections="id-922da20151404c478fcba465cf7e73f9">
     <bounds
         x="396"
-        y="194"
+        y="216"
         width="120"
         height="55"/>
     <archimateElement
@@ -142,7 +142,7 @@
       content="Realization relationship ">
     <bounds
         x="456"
-        y="276"
+        y="298"
         width="134"
         height="28"/>
   </children>
@@ -152,7 +152,7 @@
       targetConnections="id-2f0d558ab5084584b5e35711125afa3a">
     <bounds
         x="24"
-        y="530"
+        y="552"
         width="120"
         height="55"/>
     <archimateElement
@@ -173,7 +173,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="398"
+        y="420"
         width="120"
         height="55"/>
     <archimateElement
@@ -187,7 +187,7 @@
       content="Access relationship ">
     <bounds
         x="87"
-        y="482"
+        y="504"
         width="157"
         height="28"/>
   </children>
@@ -198,7 +198,7 @@
       content="Association relationship ">
     <bounds
         x="456"
-        y="482"
+        y="504"
         width="157"
         height="28"/>
   </children>
@@ -216,7 +216,7 @@
     </sourceConnections>
     <bounds
         x="216"
-        y="398"
+        y="420"
         width="120"
         height="55"/>
     <archimateElement
@@ -229,7 +229,7 @@
       targetConnections="id-331aeb5634ca4dc68d71407dcc877021">
     <bounds
         x="216"
-        y="530"
+        y="552"
         width="120"
         height="55"/>
     <archimateElement
@@ -243,7 +243,7 @@
       content="Flow relationship ">
     <bounds
         x="276"
-        y="482"
+        y="504"
         width="157"
         height="28"/>
   </children>
@@ -253,7 +253,7 @@
       targetConnections="id-5e9c70d2e53e44368f0ddcec71f9e854">
     <bounds
         x="216"
-        y="122"
+        y="144"
         width="120"
         height="55"/>
     <archimateElement
@@ -288,7 +288,7 @@
       content="Composition relationship ">
     <bounds
         x="276"
-        y="86"
+        y="96"
         width="157"
         height="28"/>
   </children>
@@ -298,7 +298,7 @@
       targetConnections="id-da33d7f4e12f4abd9a919982212b0b45">
     <bounds
         x="396"
-        y="530"
+        y="552"
         width="120"
         height="55"/>
     <archimateElement
@@ -319,7 +319,7 @@
     </sourceConnections>
     <bounds
         x="396"
-        y="398"
+        y="420"
         width="120"
         height="55"/>
     <archimateElement
@@ -353,7 +353,7 @@
       targetConnections="id-49787dd52f374cccb773a7f0901b75bd">
     <bounds
         x="24"
-        y="122"
+        y="144"
         width="120"
         height="55"/>
     <archimateElement
@@ -367,7 +367,7 @@
       content="Aggregation relationship ">
     <bounds
         x="87"
-        y="86"
+        y="96"
         width="157"
         height="28"/>
   </children>
@@ -398,7 +398,7 @@
     </sourceConnections>
     <bounds
         x="396"
-        y="122"
+        y="144"
         width="120"
         height="55"/>
     <archimateElement
@@ -412,7 +412,7 @@
       content="Specialization relationship ">
     <bounds
         x="456"
-        y="86"
+        y="96"
         width="157"
         height="28"/>
   </children>
