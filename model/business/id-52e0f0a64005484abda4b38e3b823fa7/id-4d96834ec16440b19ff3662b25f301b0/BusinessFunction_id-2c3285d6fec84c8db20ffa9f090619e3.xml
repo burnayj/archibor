@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Predictive Modelling"
-    id="id-2c3285d6fec84c8db20ffa9f090619e3"/>
+    id="id-2c3285d6fec84c8db20ffa9f090619e3"
+    documentation="In short, predictive modeling is a statistical technique using machine learning and data mining to predict and forecast likely future outcomes with the aid of historical and existing data. It works by analyzing current and historical data and projecting what it learns on a model generated to forecast likely outcomes."/>
