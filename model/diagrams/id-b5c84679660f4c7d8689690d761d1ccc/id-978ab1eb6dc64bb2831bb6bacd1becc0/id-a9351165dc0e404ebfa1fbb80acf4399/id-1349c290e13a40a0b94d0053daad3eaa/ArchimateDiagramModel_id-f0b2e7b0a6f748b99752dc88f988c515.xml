@@ -481,7 +481,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e61c9000ddf14d2d8cb5fceb86ebeedc"
-      targetConnections="id-951f55aa6a4647a385b446038bff5090 id-3c5e02edc1a8424594ca8df4e57c7839 id-33f7fd999081447192e3d4ba9a6b43ba id-685654c4a7e24dc2b821be551d4e0004 id-00d89d717eef432dbb63846c62146fd2">
+      targetConnections="id-3c5e02edc1a8424594ca8df4e57c7839 id-33f7fd999081447192e3d4ba9a6b43ba id-685654c4a7e24dc2b821be551d4e0004 id-00d89d717eef432dbb63846c62146fd2">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-923c7ab404d2433ebf6fe04bcc50efee"
@@ -490,6 +490,19 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-0e62e98aaeb648e3a8cdc0f0aff19833.xml#id-0e62e98aaeb648e3a8cdc0f0aff19833"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9a35d994b77b431caf64a917a51d1455"
+        source="id-e61c9000ddf14d2d8cb5fceb86ebeedc"
+        target="id-0db55f9e3e2f41d99af06a7fd095e556">
+      <bendpoints
+          startX="25"
+          startY="67"
+          endY="-39"/>
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-d7f40b3b7e1346ac961e4266b9629b03.xml#id-d7f40b3b7e1346ac961e4266b9629b03"/>
     </sourceConnections>
     <bounds
         x="479"
@@ -502,16 +515,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0db55f9e3e2f41d99af06a7fd095e556">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-951f55aa6a4647a385b446038bff5090"
-        source="id-0db55f9e3e2f41d99af06a7fd095e556"
-        target="id-e61c9000ddf14d2d8cb5fceb86ebeedc">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-a12269fa68f44ac7ae1ca5555643878e.xml#id-a12269fa68f44ac7ae1ca5555643878e"/>
-    </sourceConnections>
+      id="id-0db55f9e3e2f41d99af06a7fd095e556"
+      targetConnections="id-9a35d994b77b431caf64a917a51d1455">
     <bounds
         x="528"
         y="588"

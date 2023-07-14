@@ -1481,9 +1481,10 @@
           source="id-30928dc86fc248d587f2844351bc8492"
           target="id-662f92b9b32649408e1217bb21cc8b01">
         <bendpoints
-            startY="465"
-            endX="864"
-            endY="81"/>
+            startX="-24"
+            startY="466"
+            endX="840"
+            endY="82"/>
         <bendpoints
             startX="-850"
             startY="442"
