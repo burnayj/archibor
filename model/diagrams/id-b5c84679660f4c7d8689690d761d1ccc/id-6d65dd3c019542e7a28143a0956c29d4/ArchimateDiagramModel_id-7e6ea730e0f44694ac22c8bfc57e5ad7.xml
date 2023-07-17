@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Information Model - InnoTech"
-    id="id-7e6ea730e0f44694ac22c8bfc57e5ad7">
+    id="id-7e6ea730e0f44694ac22c8bfc57e5ad7"
+    viewpoint="information_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-206d9d8b793841a2a7c5daeb6c375bb6"
