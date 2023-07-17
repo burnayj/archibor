@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Consumption Unit of Measure"
-    id="id-c20959cf84f2481898a0df86b39b3b72"/>
+    name="Unit of Measure"
+    id="id-c20959cf84f2481898a0df86b39b3b72"
+    documentation="M3&#xD;&#xA;kWh, mWh, gWh: 1 kilowatthour (kWh) = 1000 watthour (Wh) 1 megawatthour (MWh) = 1000 kilowatthour (kWh) 1 gigawatthour (GWh) = 1000 megawatthour (MWh)&#xD;&#xA;"/>
