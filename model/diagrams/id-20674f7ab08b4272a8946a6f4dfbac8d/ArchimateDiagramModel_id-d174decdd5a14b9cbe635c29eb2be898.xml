@@ -822,11 +822,33 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1276b40159304147aed31a1f92ad8ba8">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5ca96519ee8e474f8d7d46c20a9cb05a"
+        source="id-1276b40159304147aed31a1f92ad8ba8"
+        target="id-6414a9236f474d2e83fc20ad47dbfecf">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-1c6b7706c9a54ef18df40974579b135f.xml#id-1c6b7706c9a54ef18df40974579b135f"/>
+    </sourceConnections>
     <bounds
         x="744"
         y="829"
         width="156"
         height="144"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6414a9236f474d2e83fc20ad47dbfecf"
+        targetConnections="id-5ca96519ee8e474f8d7d46c20a9cb05a">
+      <bounds
+          x="12"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-b1e4289a9f2b426aa9cc3038528330dd.xml#id-b1e4289a9f2b426aa9cc3038528330dd"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-6c669de42a68432fa110d54dc7ed1fe3.xml#id-6c669de42a68432fa110d54dc7ed1fe3"/>
