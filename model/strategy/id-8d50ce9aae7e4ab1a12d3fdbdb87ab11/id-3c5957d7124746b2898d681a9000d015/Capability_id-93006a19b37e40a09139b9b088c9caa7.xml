@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Calculation Engines"
+    id="id-93006a19b37e40a09139b9b088c9caa7"
+    documentation="We use calculation engine(s) to carry out specific summations for internal and regulatory purposes.&#xD;&#xA;Supportive Content can also be used to describe the specific requirements of financial or environmental calculations (sustainability).&#xD;&#xA;&#xD;&#xA;Therefore, these calculations are not performed by the data platform itself, but by the engines, which carries out the calculations. The supportive content terms provide a mechanism to identify the data elements that are required as input and output for those calculations."/>
