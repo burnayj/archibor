@@ -1,9 +1,8 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MDG Material Information Model"
-    id="id-2519edb3b17a483f974d43545f2cca89"
-    documentation="ddd">
+    name="Busines Information Model - MDG Material"
+    id="id-2519edb3b17a483f974d43545f2cca89">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b557c53ad1ac40479961bb9d4ace8d4f"

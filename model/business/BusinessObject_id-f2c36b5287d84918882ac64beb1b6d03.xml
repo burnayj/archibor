@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Emission Type"
+    id="id-f2c36b5287d84918882ac64beb1b6d03"
+    documentation="Energy/steam&#xD;&#xA;Energy/diesel&#xD;&#xA;Energy/gas&#xD;&#xA;Waste&#xD;&#xA;Flaring&#xD;&#xA;"/>
