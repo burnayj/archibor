@@ -231,7 +231,7 @@
     <bounds
         x="804"
         y="48"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -325,5 +325,17 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-b2afe26c28f34d7a88af82e119981d4d.xml#id-b2afe26c28f34d7a88af82e119981d4d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-723a3b9b2b5b4f50b12a6980bed6442a">
+    <bounds
+        x="960"
+        y="48"
+        width="132"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-e44cfcec6f57426bb14cceedfb4e68c3.xml#id-e44cfcec6f57426bb14cceedfb4e68c3"/>
   </children>
 </archimate:ArchimateDiagramModel>
