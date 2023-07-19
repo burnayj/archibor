@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Scope 2 Indirect Emission - Market Based"
-    id="id-e44cfcec6f57426bb14cceedfb4e68c3"/>
+    id="id-e44cfcec6f57426bb14cceedfb4e68c3"
+    documentation="Scope 2 are emissions that a company causes indirectly and come from where the energy it purchases and uses is produced.&#xD;&#xA;For example, the emissions caused when generating the electricity that we use in our buildings would fall into this category.&#xD;&#xA;&#xD;&#xA;The market-based method calculates the emissions from the electricity you and your company purchase.&#xD;&#xA;The market-based method is intended to support the use and reporting of green energy tariffs via Renewable Energy Certificates (REC) and Guarantees of Origin (GOO)."/>

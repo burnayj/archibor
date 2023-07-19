@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Scope 2 Indirect Emission - Location Based"
     id="id-cf06ddaa73894e41aacca6e707b36378"
-    documentation="Scope 2 are emissions that a company causes indirectly and come from where the energy it purchases and uses is produced.&#xD;&#xA;For example, the emissions caused when generating the electricity that we use in our buildings would fall into this category."/>
+    documentation="Scope 2 are emissions that a company causes indirectly and come from where the energy it purchases and uses is produced.&#xD;&#xA;For example, the emissions caused when generating the electricity that we use in our buildings would fall into this category.&#xD;&#xA;&#xD;&#xA;The location-based method calculates the emissions from electricity use based on the average emission intensity of the power grid you are using (country level)."/>
