@@ -104,7 +104,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-3ae29877891b4a529d4625421240f16f"
-          targetConnections="id-d7c65c4b11ed483b8a7a39eda1943ea2 id-011d49a40e9d4e4b93dfc961bf2d603a id-7327c90690bb462382162c6b681e815e">
+          targetConnections="id-d7c65c4b11ed483b8a7a39eda1943ea2 id-011d49a40e9d4e4b93dfc961bf2d603a id-7327c90690bb462382162c6b681e815e id-83a01f663eb54805ba5653348456ec81">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-483a05f12ed5401db012355ef13bc38a"
@@ -191,6 +191,15 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-f99c1f057cef4f0c997755dc15e22414"
             targetConnections="id-1bbf8ad84f5d455ab3f429a6aa2a0d56">
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="id-83a01f663eb54805ba5653348456ec81"
+              source="id-f99c1f057cef4f0c997755dc15e22414"
+              target="id-3ae29877891b4a529d4625421240f16f">
+            <archimateRelationship
+                xsi:type="archimate:RealizationRelationship"
+                href="RealizationRelationship_id-c2d53647376841f3981f4279cd23ca18.xml#id-c2d53647376841f3981f4279cd23ca18"/>
+          </sourceConnections>
           <bounds
               x="24"
               y="36"
@@ -218,6 +227,29 @@
                 xsi:type="archimate:FlowRelationship"
                 href="FlowRelationship_id-cf175325dc7043fd96f1658e74b2f306.xml#id-cf175325dc7043fd96f1658e74b2f306"/>
           </sourceConnections>
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="id-4950ec738b284e899c94c4965831aeb3"
+              source="id-e38199618d75415891373cad4a51a7b9"
+              target="id-9359d1dfd2a3403eb8ad9a7d653d39ec">
+            <bendpoints
+                startX="-156"
+                startY="10"
+                endX="156"
+                endY="10"/>
+            <archimateRelationship
+                xsi:type="archimate:RealizationRelationship"
+                href="RealizationRelationship_id-985a520f255e46b79141f503dbd431a4.xml#id-985a520f255e46b79141f503dbd431a4"/>
+          </sourceConnections>
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="id-1213040cf2c14d9aadde791e50e27833"
+              source="id-e38199618d75415891373cad4a51a7b9"
+              target="id-786eabb093f94fc987b3b04c38d2065f">
+            <archimateRelationship
+                xsi:type="archimate:RealizationRelationship"
+                href="RealizationRelationship_id-2307f71d6b52431fac5e45d3ea9eee57.xml#id-2307f71d6b52431fac5e45d3ea9eee57"/>
+          </sourceConnections>
           <bounds
               x="24"
               y="96"
@@ -234,7 +266,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-786eabb093f94fc987b3b04c38d2065f"
-          targetConnections="id-2c286d37903c4584be21c8e079c32552">
+          targetConnections="id-2c286d37903c4584be21c8e079c32552 id-1213040cf2c14d9aadde791e50e27833">
         <bounds
             x="324"
             y="48"
@@ -353,12 +385,17 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9359d1dfd2a3403eb8ad9a7d653d39ec"
-        targetConnections="id-4eb7f3e0f23a4352aa8d5639c536e801">
+        targetConnections="id-4eb7f3e0f23a4352aa8d5639c536e801 id-4950ec738b284e899c94c4965831aeb3">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-255af88dd7af4917acc25184539ebec0"
           source="id-9359d1dfd2a3403eb8ad9a7d653d39ec"
           target="id-b17cb1a1f59d47a49b74755616ee95a6">
+        <bendpoints
+            startX="144"
+            startY="-14"
+            endX="-161"
+            endY="24"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-cf4022c2be3b4597968aadc7e40da1e7.xml#id-cf4022c2be3b4597968aadc7e40da1e7"/>
