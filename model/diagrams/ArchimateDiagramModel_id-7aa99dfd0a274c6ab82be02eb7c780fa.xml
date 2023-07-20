@@ -416,4 +416,75 @@
         width="157"
         height="28"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4ea2f2cd0bfd465dbfdfad2bd698af42"
+      targetConnections="id-48be26872a6b4fe4994014cc0a142ec8">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-764d2a8a42824eb9a96f177346b2273c"
+        source="id-4ea2f2cd0bfd465dbfdfad2bd698af42"
+        target="id-582960cb95a54fcba2f7083cc8ce3459">
+      <bendpoints
+          startX="79"
+          startY="13"
+          endX="-72"
+          endY="13"/>
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-903ea1e50bd449d09ca4c4cddb4f7739.xml#id-903ea1e50bd449d09ca4c4cddb4f7739"/>
+    </sourceConnections>
+    <bounds
+        x="569"
+        y="420"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-ab3e8cf6cdac496da99a181c37cf207a.xml#id-ab3e8cf6cdac496da99a181c37cf207a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-582960cb95a54fcba2f7083cc8ce3459"
+      targetConnections="id-764d2a8a42824eb9a96f177346b2273c">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-48be26872a6b4fe4994014cc0a142ec8"
+        source="id-582960cb95a54fcba2f7083cc8ce3459"
+        target="id-4ea2f2cd0bfd465dbfdfad2bd698af42">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-c999872d84294c7cb1cec55d3e546dfb.xml#id-c999872d84294c7cb1cec55d3e546dfb"/>
+    </sourceConnections>
+    <bounds
+        x="821"
+        y="420"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-e8a83256151647cd9a1d860d5c05bad0.xml#id-e8a83256151647cd9a1d860d5c05bad0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4b983f1c236f48c1968732b03db9856b"
+      textAlignment="1"
+      content="Serving relationship ">
+    <bounds
+        x="688"
+        y="408"
+        width="134"
+        height="28"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-32af701bdfb7458f87887c225fdf1ad7"
+      textAlignment="1"
+      content="Assignment relationship ">
+    <bounds
+        x="676"
+        y="474"
+        width="157"
+        height="28"/>
+  </children>
 </archimate:ArchimateDiagramModel>
