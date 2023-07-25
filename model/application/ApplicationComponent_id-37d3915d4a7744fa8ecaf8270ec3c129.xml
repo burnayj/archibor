@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Refresh Tool"
+    id="id-37d3915d4a7744fa8ecaf8270ec3c129"
+    documentation="Developed by vendor in SAP &amp; it is use for code creation &amp; Bom creation in SAP. This tool is having approval mechanism, mail functionality. &#xD;&#xA;&#xD;&#xA;Refresh tool is an ad-on created in ECC with Webdynpro development. This tool has all fields from SAP, also here user can assign the attachment. &#xD;&#xA;&#xD;&#xA;Matrial types SRVO, IBAU &amp; UNBW: These technical materials (SRVO &amp; UNBW) &amp; assemblies (IBAU) tools materials, are created in ReFresh tool (T Code-/FRESH/WD_MANAGE2B). &#xD;&#xA;&#xD;&#xA;Refresh tool is also using IB02 (when there is already a BOM in SAP)&#xD;&#xA;&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning Grade"
+    id="id-4d8a00e1f06744708fe609899d2c0609"
+    documentation="Implement a unique planning grade used for planning and sales order entry on top of the current solution.​&#xD;&#xA;&#xD;&#xA;A planning grade represents a group of interchangeable grades. Substitution of planning grade to unique material code is automated."/>

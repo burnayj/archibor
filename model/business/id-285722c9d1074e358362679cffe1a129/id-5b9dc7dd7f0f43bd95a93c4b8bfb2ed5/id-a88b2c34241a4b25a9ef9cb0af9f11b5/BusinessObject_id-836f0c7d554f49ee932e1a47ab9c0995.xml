@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Global Material Code"
+    id="id-836f0c7d554f49ee932e1a47ab9c0995"
+    documentation="Implement unique Material code across producing global region (US or EU) with single Base Unit Kilogram (KG)​"/>

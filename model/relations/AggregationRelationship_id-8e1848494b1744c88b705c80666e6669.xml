@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grade substitution"
+    id="id-8e1848494b1744c88b705c80666e6669">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4d8a00e1f06744708fe609899d2c0609.xml#id-4d8a00e1f06744708fe609899d2c0609"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4d8a00e1f06744708fe609899d2c0609.xml#id-4d8a00e1f06744708fe609899d2c0609"/>
+</archimate:AggregationRelationship>
