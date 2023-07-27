@@ -1,8 +1,8 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Country of origin"
-    id="id-140c2b09359c4887a6a7b01ff8bb06e9">
+    name="Country of production"
+    id="id-b381d19044b6474684d520df8fe004f3">
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-0e2383da4c6548dc890384a311adff25.xml#id-0e2383da4c6548dc890384a311adff25"/>
