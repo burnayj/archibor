@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Grade Cluster"
-    id="id-d6f640c168754d2b95dbb1bc28350188"/>
+    id="id-d6f640c168754d2b95dbb1bc28350188"
+    documentation="to be discussed during detailed design - still used or not ? Need alignment with other streams&#xD;&#xA;"/>
