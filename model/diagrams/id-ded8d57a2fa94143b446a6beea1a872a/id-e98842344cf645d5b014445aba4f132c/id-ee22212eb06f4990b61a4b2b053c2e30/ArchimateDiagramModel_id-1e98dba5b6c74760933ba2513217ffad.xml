@@ -32,7 +32,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2afa74f86c474042b28a33caaa6bf75c"
-        targetConnections="id-7413ca610f53492b9e8df88f3cb1c76e id-6b2e415a77b74218a0ab303457ab1fff">
+        targetConnections="id-6b2e415a77b74218a0ab303457ab1fff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-aec7f2f1bc15401ca037279ded519128"
@@ -41,20 +41,6 @@
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-079b83578fa349c99534eb774a736d29.xml#id-079b83578fa349c99534eb774a736d29"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-d44616c9f39b47edbb4158e0d7f3fee1"
-          source="id-2afa74f86c474042b28a33caaa6bf75c"
-          target="id-836400f971b44291a25cdee7b2c12d25">
-        <bendpoints
-            startX="12"
-            startY="103"
-            endX="12"
-            endY="-101"/>
-        <archimateRelationship
-            xsi:type="archimate:FlowRelationship"
-            href="FlowRelationship_id-a2133f31dcc647729b11d93dfe254094.xml#id-a2133f31dcc647729b11d93dfe254094"/>
       </sourceConnections>
       <bounds
           x="48"
@@ -89,21 +75,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-836400f971b44291a25cdee7b2c12d25"
-        targetConnections="id-d44616c9f39b47edbb4158e0d7f3fee1 id-6b436434f9fc48e5a4bb14cccc6bcba2">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-7413ca610f53492b9e8df88f3cb1c76e"
-          source="id-836400f971b44291a25cdee7b2c12d25"
-          target="id-2afa74f86c474042b28a33caaa6bf75c">
-        <bendpoints
-            startX="-12"
-            startY="-98"
-            endX="-12"
-            endY="106"/>
-        <archimateRelationship
-            xsi:type="archimate:FlowRelationship"
-            href="FlowRelationship_id-c89069ff2668408ab7ba8448937c79d7.xml#id-c89069ff2668408ab7ba8448937c79d7"/>
-      </sourceConnections>
+        targetConnections="id-6b436434f9fc48e5a4bb14cccc6bcba2">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-748e140b56db4c43a4ad105d422f5908"

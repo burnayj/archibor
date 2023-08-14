@@ -1,8 +1,8 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IPS data"
-    id="id-48402f03b7454b9e955e5bcfffd10907"
+    name="SAP EHS formulation"
+    id="id-f22146f9a33f415fadc9290b0bdfb4b3"
     accessType="1">
   <source
       xsi:type="archimate:ApplicationInterface"

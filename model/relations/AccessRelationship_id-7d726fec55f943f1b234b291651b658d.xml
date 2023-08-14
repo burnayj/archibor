@@ -1,12 +1,11 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IPS data"
-    id="id-48402f03b7454b9e955e5bcfffd10907"
+    id="id-7d726fec55f943f1b234b291651b658d"
     accessType="1">
   <source
       xsi:type="archimate:ApplicationInterface"
-      href="ApplicationInterface_id-6ff22fbdc486408b8a3e4eb63ea3df42.xml#id-6ff22fbdc486408b8a3e4eb63ea3df42"/>
+      href="ApplicationInterface_id-fa3cae8b634844f8a86568149f011a54.xml#id-fa3cae8b634844f8a86568149f011a54"/>
   <target
       xsi:type="archimate:DataObject"
       href="DataObject_id-1783e0baf76249dea439f2b1353cc291.xml#id-1783e0baf76249dea439f2b1353cc291"/>

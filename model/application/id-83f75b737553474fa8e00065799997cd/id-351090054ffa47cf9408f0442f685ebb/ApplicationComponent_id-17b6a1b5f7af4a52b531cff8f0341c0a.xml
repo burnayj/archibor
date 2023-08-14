@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PO Portal"
-    id="id-17b6a1b5f7af4a52b531cff8f0341c0a"/>
+    id="id-17b6a1b5f7af4a52b531cff8f0341c0a"
+    documentation="PO Portal is a data/document management system where product specifications and customer specific requirements are stored&#xD;&#xA;&#xD;&#xA;Why is it important? ​&#xD;&#xA;It is a business-critical connection as PO Portal acts as the main database to maintain product documentation (recipes, BOM) and the linked approval flow. Management of Product Portfolio and connected legal obligations towards customers cannot be ensured without PO Portal. Without the functionalities in PO Portal, the Borealis business processes cannot operate.​&#xD;&#xA;&#xD;&#xA;What is the target?​&#xD;&#xA;In S4 we are changing several data structures in our ERP system. We aim to ensure the system connections ​between PO Portal and SAP remain functional at the time of the go-live and the data fields are updated in the PO Portal as well.​"/>
