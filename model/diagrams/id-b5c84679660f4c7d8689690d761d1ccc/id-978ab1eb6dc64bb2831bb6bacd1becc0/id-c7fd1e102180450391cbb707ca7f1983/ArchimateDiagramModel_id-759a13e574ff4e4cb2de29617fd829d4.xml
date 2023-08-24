@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Busines Information Model - Financial Asset"
+    id="id-759a13e574ff4e4cb2de29617fd829d4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-edad1d42dc2f4c18a0c29419fed8a543">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8f773004edd94d28aaf46eee91a2a040"
+        source="id-edad1d42dc2f4c18a0c29419fed8a543"
+        target="id-2de627b0d2374278b736cea54e926b93">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-55798595683c4f289ef223ef42cadc24.xml#id-55798595683c4f289ef223ef42cadc24"/>
+    </sourceConnections>
+    <bounds
+        x="546"
+        y="310"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-c852e4f5d73348bbaa5f180561c935a7.xml#id-c852e4f5d73348bbaa5f180561c935a7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2de627b0d2374278b736cea54e926b93"
+      targetConnections="id-8f773004edd94d28aaf46eee91a2a040">
+    <bounds
+        x="546"
+        y="408"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-1a6227c8ae0d44ce80f30e96ff26ec69.xml#id-1a6227c8ae0d44ce80f30e96ff26ec69"/>
+  </children>
+</archimate:ArchimateDiagramModel>
